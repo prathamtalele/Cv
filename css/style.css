@@ -1,0 +1,77 @@
+body{
+   background-color: aliceblue;
+
+}
+.photo {
+    border-radius: 30%;
+    width: 20%;
+    height: 30%;
+}
+.signature{
+    font: size 20px; ;
+    color: black;
+    font-weight: bold;
+
+}
+hr {
+     width: 20%;
+     border-style: ridge solid dotted dashed;
+     align: center;
+     border-width: 1px;
+
+
+}
+/*synopsis css starts */
+.synopsis h4 {
+    font-size: 25px ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blueviolet;
+    text-align: center;
+    font-weight: bold;
+}
+.synopsis {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    text-align: justify;
+}
+
+.qualities h4{
+    font-size: 25px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: blueviolet;
+        text-align: center;
+        font-weight: bold;
+}
+.qualities{
+    font-size: 20px;
+        font-family: 'Times New Roman', Times, serif;
+        color: blue;
+        text-align: justify;
+}
+.Technical h4 {
+    font-size: 25px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: blueviolet;
+        text-align: center;
+        font-weight: bold;
+}
+.Technical{
+    font-size: 20px;
+        font-family: 'Times New Roman', Times, serif;
+        color: blue;
+        text-align: justify;
+}
+.technicalskill h4{
+    font-size: 25px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: blueviolet;
+        text-align: center;
+        font-weight: bold;
+}
+.technicalskill{
+    font-size: 20px;
+        font-family: 'Times New Roman', Times, serif;
+        color: blue;
+        text-align: justify;
+}
